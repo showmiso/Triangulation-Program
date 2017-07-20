@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poly2Tri", "Poly2Tri\Poly2Tri.csproj", "{585DA68C-00F0-4077-960C-59AB1A24DDFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainProgram", "MainProgram\MainProgram.csproj", "{C5BA6970-2B2B-459B-9E86-F5B74BFEFADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{585DA68C-00F0-4077-960C-59AB1A24DDFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585DA68C-00F0-4077-960C-59AB1A24DDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585DA68C-00F0-4077-960C-59AB1A24DDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585DA68C-00F0-4077-960C-59AB1A24DDFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5BA6970-2B2B-459B-9E86-F5B74BFEFADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5BA6970-2B2B-459B-9E86-F5B74BFEFADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5BA6970-2B2B-459B-9E86-F5B74BFEFADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5BA6970-2B2B-459B-9E86-F5B74BFEFADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
